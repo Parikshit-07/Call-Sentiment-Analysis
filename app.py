@@ -18,6 +18,7 @@ option = st.selectbox('How would you like to upload recording?',('','Record', 'U
 
 if option == 'Upload Audio':
   st.write('You selected:', option)
+  st.write('Please upload only .wav audio format file')
   r = sr.Recognizer()
   
   def save_uploaded_file(uploadedfile):
