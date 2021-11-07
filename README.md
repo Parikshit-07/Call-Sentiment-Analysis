@@ -30,5 +30,5 @@ There are 2 modes in which the audio can be analyzed:
 ##################################################################################<br/>
 
 #### Future Scope 	:rocket:	:rocket:
-1. We can implement DeepSpeech to improve speect-to-text conversion due to time and computation limitation :floppy_disk: we did not implemented.<br/>
+1. We can implement DeepSpeech to improve speect-to-text conversion due to time and computation limitation :floppy_disk: we did not implement that.<br/>
 2. We can further analyze the converted text to find insights using Spacy and Bert.
