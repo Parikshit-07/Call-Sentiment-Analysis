@@ -23,6 +23,9 @@ Step 4: Run the Program Locally
 
 **:tada: Hooray :tada:**
 
+There are 2 modes in which the audio can be analyzed:
+1. Upload an audio file in .wav format
+2. Record your voice and then analyze it (still work under progress).
 
 ##################################################################################<br/>
 
