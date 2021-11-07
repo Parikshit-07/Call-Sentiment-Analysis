@@ -1,7 +1,7 @@
 ## Call Sentiment Analysis :calling:
 The objective of this project is to help us understand the sentiment of incomming customer call and analyze it.
 
-### Instalation
+### Installation
 ***Note:*** ***Make sure you have *Python 3.8 or higher* installed on your machine :computer:***<br/><br/>
 *After clonning the repository on your local machine* <br/>
 Step 1: Create a Virtual Environment
